@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
   "test": "node --test",
+  "test:unit": "node --test test/soma.test.js",
+  "test:integration": "node --test test/build.integration.test.js",
   "build": "node build.js"
 },
   "repository": {
