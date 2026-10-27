@@ -1,0 +1,22 @@
+{
+  "name": "devops-pratica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "test": "node --test",
+  "build": "node build.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamilaPacifico/devops-pratica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KamilaPacifico/devops-pratica/issues"
+  },
+  "homepage": "https://github.com/KamilaPacifico/devops-pratica#readme"
+}
